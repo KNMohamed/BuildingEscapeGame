@@ -1,4 +1,2 @@
-Building Escape Game
-
-Rules:
-Use your surrounding to find your way out of a confined room.
+# Building Escape Game
+Find your way out of an eclosed room by utilising your surrounding in this fun, interactive puzzle game.
